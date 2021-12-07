@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TeoToastSnackbarNotifications</string>
+    <string name="btn_toast_simples">Toast simples</string>
+    <string name="btn_toast_custom_view">Toast custom view</string>
+    <string name="btn_snackbar_simples">Snackbar simples</string>
+    <string name="btn_snackbar_com_action">Snackbar com Action</string>
+    <string name="btn_notificacao">Notificação</string>
+    <string name="btn_exit">Exit</string>
+    <string name="deis_isec">DEIS-ISEC</string>
+    <string name="toast_msg1">Mensagem</string>
+    <string name="snack_msg1">Mensagem 1</string>
+    <string name="toast_on_snack1">Toast on a Snack</string>
+    <string name="channel_name">AMov Channel</string>
+    <string name="not_title">AMOV - Título</string>
+    <string name="not_text">AMov - Texto</string>
+    <string name="txt_AMov">Arq. Móveis</string>
+    <string name="snackoption">Option 1</string>
+</resources>
