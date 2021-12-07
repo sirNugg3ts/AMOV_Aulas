@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amov_Tp</string>
+    <string name="msg_brevemente">Disponível brevemente</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="guardar">Guardar</string>
+    <string name="selecionar_imagem">Selecionar Imagem</string>
+    <string name="AlertaDeVitória">O vencedor é: </string>
+    <string name="consultarTab">Consultar Tabuleiro</string>
+    <string name="novJog">Novo jogo</string>
+</resources>
