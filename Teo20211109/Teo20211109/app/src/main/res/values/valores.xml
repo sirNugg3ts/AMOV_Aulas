@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>Valor 1</item>
+        <item>Valor 11</item>
+        <item>Valor 111</item>
+        <item>Valor 1111</item>
+    </string-array>
+</resources>
