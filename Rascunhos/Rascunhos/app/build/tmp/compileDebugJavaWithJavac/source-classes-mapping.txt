@@ -1,0 +1,14 @@
+pt/isec/ans/rascunhos/databinding/ItemHistoricoBinding.java
+ pt.isec.ans.rascunhos.databinding.ItemHistoricoBinding
+pt/isec/ans/rascunhos/databinding/ActivityFundoSolidoBinding.java
+ pt.isec.ans.rascunhos.databinding.ActivityFundoSolidoBinding
+pt/isec/ans/rascunhos/databinding/ActivityHistoricoBinding.java
+ pt.isec.ans.rascunhos.databinding.ActivityHistoricoBinding
+pt/isec/ans/rascunhos/databinding/ActivityMainBinding.java
+ pt.isec.ans.rascunhos.databinding.ActivityMainBinding
+pt/isec/ans/rascunhos/BuildConfig.java
+ pt.isec.ans.rascunhos.BuildConfig
+pt/isec/ans/rascunhos/databinding/ActivityFundoImagemBinding.java
+ pt.isec.ans.rascunhos.databinding.ActivityFundoImagemBinding
+pt/isec/ans/rascunhos/databinding/ActivityAreaDesenhoBinding.java
+ pt.isec.ans.rascunhos.databinding.ActivityAreaDesenhoBinding

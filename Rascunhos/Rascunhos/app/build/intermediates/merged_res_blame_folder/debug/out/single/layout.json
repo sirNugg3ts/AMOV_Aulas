@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_historico.xml",
+        "source": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/src/main/res/layout/item_historico.xml"
+    },
+    {
+        "merged": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_historico.xml",
+        "source": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/src/main/res/layout/activity_historico.xml"
+    },
+    {
+        "merged": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_fundo_imagem.xml",
+        "source": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/src/main/res/layout/activity_fundo_imagem.xml"
+    },
+    {
+        "merged": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_area_desenho.xml",
+        "source": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/src/main/res/layout/activity_area_desenho.xml"
+    },
+    {
+        "merged": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_fundo_solido.xml",
+        "source": "/home/diogop/Transferências/Rascunhos/Rascunhos/app/src/main/res/layout/activity_fundo_solido.xml"
+    }
+]
